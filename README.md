@@ -5,11 +5,10 @@
 
 - 🌱 I’m currently learning **Advanced P4 + SDN concepts for real-world deployments. Quant finance systems design (order books, backtesting, low-latency data pipelines). AI-based code generation & verification with formal logic.**
 
-- 👯 I’m looking to collaborate on [System-level AI projects (AI + networking, AI for infra automation, AI for developer productivity). Quant/Trading infrastructure (low-latency systems, order book simulators, HFT-inspired tools). CTFs & Cybersecurity Challenges (network security, LLM hacking, adversarial ML).](https://github.com/gkavinrajanCodes/Orderbook https://github.com/gkavinrajanCodes/iisy)
-
+- 👯 I’m looking to collaborate on System-level AI projects (AI + networking, AI for infra automation, AI for developer productivity). Quant/Trading infrastructure (low-latency systems, order book simulators, HFT-inspired tools). CTFs & Cybersecurity Challenges (network security, LLM hacking, adversarial ML).
 - 🤝 I’m looking for help with **Scaling AI models in resource-constrained environments (CPU-only, programmable switches, embedded systems). Designing efficient rule-merging strategies in P4 to reduce table size without hurting accuracy. Improving model calibration techniques for better uncertainty estimation.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gkavinrajanCodes](https://github.com/gkavinrajanCodes)
+- 👨‍💻 All of my projects are available [here](https://github.com/gkavinrajanCodes)
 
 - 💬 Ask me about **P4, BMv2, Mininet, and ML integrations. Building scalable system-level AI projects. Practical approaches to algorithmic trading infra and network security tools.**
 
