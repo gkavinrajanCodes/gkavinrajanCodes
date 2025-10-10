@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm G. Kavin Rajan</h1>
 <h3 align="center">A geeky guy who loves low latency DevOps, stepping into HFT programming, has a special interest for Cybersecurity</h3>
 
-- 🔭 I’m currently working on [Orderbook implementation and further refining it once i am getting to know more if its nuances](https://github.com/gkavinrajanCodes/Orderbook)
+- 🔭 I’m currently working on [Orderbook implementation and further refining it once i am getting to know more of its nuances](https://github.com/gkavinrajanCodes/Orderbook)
 
 - 🌱 I’m currently learning **Advanced P4 + SDN concepts for real-world deployments. Quant finance systems design (order books, backtesting, low-latency data pipelines). AI-based code generation & verification with formal logic.**
 
